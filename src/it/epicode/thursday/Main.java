@@ -1,4 +1,4 @@
-package it.epicode.thursday;
+/*package it.epicode.thursday;
 
 import java.util.Scanner;
 
@@ -28,3 +28,4 @@ public class Main {
     }
 }
 //fizzbuzz con metodo if, else if e con la stampa ogni line.
+*/
