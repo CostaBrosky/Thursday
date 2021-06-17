@@ -27,3 +27,4 @@ public class Main {
         }
     }
 }
+//fizzbuzz con metodo if, else if e con la stampa ogni line.
