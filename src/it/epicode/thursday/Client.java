@@ -19,6 +19,16 @@ public class Client {
         return false;
     }
 
+    public double getTotalCount() {
+        double total = 0;
+        for (int i = 0; i < count.length; i++) {
+            if(count[i] != null) {
+                total = total + count[i].saldo;
+            }
+        }
+        return total;
+    }
+
     public Ccorente removeCc(int pos) {
         Ccorente remove = count[pos];
         count[pos] = null;
